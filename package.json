@@ -1,0 +1,8 @@
+{
+  "name": "random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/inespart/random-color-generator.git",
+  "author": "Ines Part <ines.part91@gmail.com>",
+  "license": "MIT"
+}
